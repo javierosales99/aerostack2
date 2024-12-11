@@ -48,6 +48,7 @@ set(MSGS_FILES
   "msg/GimbalControl.msg"
   "msg/Geozone.msg"
   "msg/PolygonList.msg"
+  "msg/TrajectorySetpoints.msg"
 )
 
 set(SRVS_FILES
